@@ -8,7 +8,7 @@ This is the reference design for a cable that you can attach to your roomba's SC
 
 ## Contents
 
-**Documentation:** Assembley Instructions, Datasheet
+**Documentation:** Assembley Instructions, Datasheet, BOM
 
 ## License
 
