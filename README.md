@@ -8,7 +8,9 @@ This is the reference design for a cable that you can attach your robot controll
 
 A unique feature of this cable is that it has the Roomba SCI wires are broken out to common interface plugs (2.1mm Barrel and Dupont). This gives the Roomba the ability to plug and play right away with external microcontroller boards with no soldering required. 
 
-**Please Note:** The voltage on the barrel plug is unregulated voltage from the 14.4V Roomba battery which can be up to 18V fully charged. 
+**Please Note:** The voltage on the barrel plug is unregulated voltage from the 14.4V Roomba battery which can be up to 18V fully charged.
+
+The EZ-Builder behavior control for the Roomba can be found here: https://synthiam.com/Products/Controls/Third-Party-Robots/Roomba-Movement-Panel-16116
 
 ## Contents
 
