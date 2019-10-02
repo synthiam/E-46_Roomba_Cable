@@ -24,3 +24,4 @@ Please see [LICENSE.md](https://github.com/synthiam/E-46_Roomba_Cable/blob/maste
 
 Synthiam Website: https://synthiam.com
 
+![Synthiam](https://live.staticflickr.com/65535/47791527651_358dffb302_m.jpg)
