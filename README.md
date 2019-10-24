@@ -8,12 +8,12 @@ If you are new to GitHub and would like to create a derivative of this project, 
 
 Out of our passion to solve the issue of time waste in the robot creation process, EZ-Builder was born. The EZ-Builder software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
 
-We didn't stop at the software, we also made time saving hardware solutions. This Roomba cable reference design is one of them. This cable breaks out power into a 2.1mm barrel Plug, and UART TX/RX/GND to a 4-position male dupont connector, one side (Male 7-pin mini DIN connector) plugs in the Roomba SCI port and the other into an robot controller. The power output from the Roomba's SCI port is limited to 200mA by a PTC fuse within the Roomba but is more than enough to power most controllers. A unique feature of this cable is that it has the Roomba SCI wires are broken out to common interface plugs (2.1mm Barrel and Dupont). This gives the Roomba the ability to plug and play right away with external microcontroller boards with no soldering required.  We want to share these files with you so you can create your own version for your community and customers to enjoy!
+We didn't stop at the software, we also made time saving hardware solutions. This Roomba cable reference design is one of them. This cable plugs in the Roomba SCI port and the other side plugs into a robot controller. The power output from the Roomba's SCI port is limited to 200mA by a PTC fuse within the Roomba but is more than enough to power most controllers. A unique feature of this cable is that it has the Roomba SCI wires are broken out to common interface plugs (2.1mm Barrel and Dupont). This gives the Roomba the ability to plug and play right away with external microcontroller boards with no soldering required.  We want to share these files with you so you can create your own version for your community and customers to enjoy!
 
 **Features:**
 - MD-70 Male 7-pin mini DIN connector to connect to Roomba SCI port
 - 2.1mm Barrel Plug to connect to robot controller voltage input
-- 3-pin dupont connector to connect to robot controller UART
+- 3-pin dupont connector to connect to robot controller UART (TX/RX/GND)
 - simple interface to take over control of your Roomba
 - Wire length: 15cm
 - Dimensions (7-pin mini DIN): 13.7(W) x 13.7(L) x 50.5(H) (mm)
