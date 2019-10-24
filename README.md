@@ -42,7 +42,7 @@ The EZ-Builder behavior control for this reference design is very easy to use! S
 
 Link: https://synthiam.com/Products/Controls/Third-Party-Robots/Roomba-Movement-Panel-16116
 
-<a href="https://synthiam.com/Products/Controls/Third-Party-Robots/Roomba-Movement-Panel-16116"><img src="E-46 Behavior Control.PNG" width="683" height="383"></a>
+<a href="https://synthiam.com/Products/Controls/Third-Party-Robots/Roomba-Movement-Panel-16116"><img src="E-46 Control.PNG" width="683" height="383"></a>
 
 ## Contact
 
