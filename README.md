@@ -27,7 +27,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 
 ## Contents
 
-[**Documentation:**](https://github.com/synthiam/E-46_Roomba_Cable/tree/master/E-46%20Documentation) Assembley Instructions, Datasheet, BOM
+[**Documentation:**](https://github.com/synthiam/E-46_Roomba_Cable/tree/master/E-46%20Documentation) Assembly Instructions, Datasheet, BOM
 
 ## Photos
 
