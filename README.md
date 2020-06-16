@@ -6,7 +6,7 @@ If you are new to GitHub and would like to create a derivative of this project, 
 
 ## Description
 
-Out of our passion to solve the issue of time waste in the robot creation process, EZ-Builder was born. The EZ-Builder software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
+Out of our passion to solve the issue of time waste in the robot creation process, ARC was born. The ARC software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
 
 We didn't stop at the software, we also made time saving hardware solutions. This Roomba cable reference design is one of them. This cable plugs in the Roomba SCI port and the other side plugs into a robot controller. The power output from the Roomba's SCI port is limited to 200mA by a PTC fuse within the Roomba but is more than enough to power most controllers. A unique feature of this cable is that it has the Roomba SCI wires are broken out to common interface plugs (2.1mm Barrel and Dupont). This gives the Roomba the ability to plug and play right away with external microcontroller boards with no soldering required.  We want to share these files with you so you can create your own version for your community and customers to enjoy!
 
@@ -14,7 +14,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - MD-70 Male 7-pin mini DIN connector to connect to Roomba SCI port
 - 2.1mm Barrel Plug to connect to robot controller voltage input
 - 3-pin dupont connector to connect to robot controller UART (TX/RX/GND)
-- simple interface to take over control of your Roomba
+- ARC skill available
 - Wire length: 15cm
 - Dimensions (7-pin mini DIN): 13.7(W) x 13.7(L) x 50.5(H) (mm)
 - Weight: 13g
@@ -36,9 +36,9 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 <img src="https://live.staticflickr.com/65535/48056673808_ff44bcc71c_k.jpg" width="683" height="383">
 <img src="https://live.staticflickr.com/65535/48056723537_84722fce43_k.jpg" width="683" height="383"></p>
 
-## EZ-Builder Behavior Control
+## ARC Skill
 
-The EZ-Builder behavior control for this reference design is very easy to use! Simply click on the control buttons to activate the Roomba. 
+The ARC skill for this reference design is very easy to use. Simply click on the control buttons to activate the Roomba! 
 
 Link: https://synthiam.com/Products/Controls/Third-Party-Robots/Roomba-Movement-Panel-16116
 
